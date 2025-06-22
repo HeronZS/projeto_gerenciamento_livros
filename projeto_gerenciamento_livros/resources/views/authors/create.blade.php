@@ -44,7 +44,6 @@
                     <p class="card-text">
                         <small class="text-muted">
                             <i class="fas fa-asterisk text-danger"></i> Campos obrigatórios<br>
-                            <i class="fas fa-envelope"></i> Email deve ser único<br>
                             <i class="fas fa-user"></i> Nome será exibido nos livros
                         </small>
                     </p>

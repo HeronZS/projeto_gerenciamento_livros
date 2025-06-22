@@ -42,7 +42,7 @@
         <div class="container">
             <a class="navbar-brand" href="{{ route('books.index') }}">
                 <i class="fas fa-book-open text-primary"></i>
-                <strong>BiblioTech</strong>
+                <strong>BiblioTecha</strong>
             </a>
             
             <div class="navbar-nav ms-auto">
